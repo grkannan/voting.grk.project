@@ -1,0 +1,45 @@
+
+/*Login form styling*/
+.frm{
+	text-align: right;
+	/*padding-left: 50px;*/
+	/*padding-right: 3pc;*/
+}
+.frm form{
+	border: 2px;
+	/*padding-top: 8pc;*/
+	background-color: transparent;
+}
+.frm form input{
+	background-color: transparent;
+	width: 40%;
+	height: 40px;
+	font-size: 18px;
+	font-style: bold;
+	color: black;
+
+	border-top: 0px;
+	border-right: 0px;
+	border-left: 0px;
+	border-bottom: 3px solid black;
+	border-radius: 5px;
+	margin-bottom: 10px;
+}
+.frm form button{
+	width: 120px;
+	height: 40px;
+	background-color: transparent;
+
+	border-style: solid;
+	border: 2px solid white;
+	/*background-color: dimgrey;*/
+	color: whitesmoke;
+
+	font-style: block;
+	font-size: large;
+	text-decoration: blink	;
+	font-display: block;
+	font-family: serif;
+	letter-spacing: 2px;
+
+}
